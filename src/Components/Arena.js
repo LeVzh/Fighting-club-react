@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import './Arena.css';
+import './css/Arena.css';
 
 class Arena extends Component {
   render() {
     return (
-      <p className='arena'> Arena component </p>
+      <div className='arena'></div>
     );
   }
 }

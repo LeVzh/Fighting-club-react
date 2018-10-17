@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import './Store.css';
+import './css/Store.css';
 
 class Store extends Component {
   render() {
     return (
-      <p className='store'> Store component </p>
+      <p className='store'></p>
     );
   }
 }

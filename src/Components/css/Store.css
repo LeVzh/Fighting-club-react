@@ -1,0 +1,9 @@
+.store {
+    width: 300px;
+    height: 250px;
+    background-image: url(../img/store.jpg);
+    background-size: 100%;
+    position: relative;
+    top: 300px;
+    left: 15px;
+}
